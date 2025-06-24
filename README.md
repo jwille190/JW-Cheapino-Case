@@ -30,8 +30,8 @@ Hardware
 |   2  | M4 x 10mm pan-head machine screw                                         |
 |  18  | D4x2 Round Magnet (N50M Grade from Bambu Lab Maker's Supply or similar)  |
 
-*You can find heat set insert kits that have multiple sizes, like these. You will need a tool to install them.
-https://www.amazon.com/Threaded-Inserts-Plastic-knurled-Assortment/dp/B0DCJ4MXCM
+*You can find heat set insert kits that have multiple sizes, like these. https://www.amazon.com/Threaded-Inserts-Plastic-knurled-Assortment/dp/B0DCJ4MXCM
+You will need a tool to install them.
 
 ![](Assorted%20Heat%20Set%20Insert%20Img.png)
 
