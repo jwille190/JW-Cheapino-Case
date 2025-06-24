@@ -35,7 +35,9 @@ https://www.amazon.com/Threaded-Inserts-Plastic-knurled-Assortment/dp/B0DCJ4MXCM
 
 ![](Assorted%20Heat%20Set%20Insert%20Img.png)
 
-CRITICAL ASSEMBLY NOTES:
+
+
+# CRITICAL ASSEMBLY NOTES:
 The controller cover is specifically designed for the shorter RJ45 connector that is 11.5mm tall, check the height before assembly.
 https://www.amazon.com/uxcell-Unshielded-Modular-Network-Connectors/dp/B007POCUF2
 ![](RJ45%20Size%20Img.png)
