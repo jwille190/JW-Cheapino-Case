@@ -1,27 +1,27 @@
 Printed Pieces
 
-| Qty  | Part|
-| ------------- | ------------- |
-| 1  | L Case body  |
-| 1  | R Case body (mirror in slicer)  |
-| 1  | L Switchplate  |
-| 1  | R Switchplate (mirror in slicer)  |
-| 1  | L Controller Cover  |
-| 1  | R Controller Cover (mirror in slicer)  |
-| 2  | Pivot hubs  |
-| 2  | Magnet Circles  |
-| 2  | Tenting Ramps  |
+| Qty | Part                                   |
+| --- | -------------------------------------- |
+|  1  | L Case body                            |
+|  1  | R Case body (mirror in slicer)         |
+|  1  | L Switchplate                          |
+|  1  | R Switchplate (mirror in slicer)       |
+|  1  | L Controller Cover                     |
+|  1  | R Controller Cover (mirror in slicer)  |
+|  2  | Pivot hubs                             |
+|  2  | Magnet Circles                         |
+|  2  | Tenting Ramps                          |
 
 
 Hardware
 
-| Qty  | Part|
-| ------- | ------ |
-|  16 | M2 Heatset inserts*  |
-|  16 | M2 Socket head cap screws  |
-|  2  | M4 Heatset inserts*  |
-|  2  | M4x0.7 10mm pan-head machine screw  |
-|  18 | D4x2 Round Magnet (N50M Grade from Bambu Lab Maker's Supply or similar)  |
+| Qty  | Part                                                                     |
+| ---- | ------------------------------------------------------------------------ |
+|  16  | M2 Heatset inserts*                                                      |
+|  16  | M2 x 8mm Socket head cap screws                                          |
+|   2  | M4 Heatset inserts*                                                      |
+|   2  | M4 x 10mm pan-head machine screw                                         |
+|  18  | D4x2 Round Magnet (N50M Grade from Bambu Lab Maker's Supply or similar)  |
 
 *You can find heat set insert kits that have multiple sizes, like these. You will need a tool to install them.
 https://www.amazon.com/Threaded-Inserts-Plastic-knurled-Assortment/dp/B0DCJ4MXCM
