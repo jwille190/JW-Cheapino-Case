@@ -33,7 +33,7 @@ Hardware
 *You can find heat set insert kits that have multiple sizes, like these. You will need a tool to install them.
 https://www.amazon.com/Threaded-Inserts-Plastic-knurled-Assortment/dp/B0DCJ4MXCM
 
-![](JW-Cheapino-Case/blob/main/Assorted%20Heat%20Set%20Insert%20Img.png)
+![Alt Text](JW-Cheapino-Case/blob/main/Assorted%20Heat%20Set%20Insert%20Img.png)
 
 CRITICAL ASSEMBLY NOTES:
 The controller cover is specifically designed for the shorter RJ45 connector that is 11.5mm tall, check the height before assembly.
